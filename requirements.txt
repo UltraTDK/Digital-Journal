@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+numpy
+pandas
+vaderSentiment
+deep-translator
+Pillow
+mediapipe
+transformers
+torch
+scikit-learn
+langdetect
