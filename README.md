@@ -3,14 +3,17 @@ This my Bachelor Degree Application that is designed as a personal emotional jou
 
 ## Installation
 
-Run the following commands in CMD to install all required libraries:
+Run the following command in CMD to install all required libraries:
 
 ```bash
 pip install -r requirements.txt
+```
+
+```bash
 pip install .\tensorflow-2.19.0-cp311-cp311-win_amd64.whl
 ```
 
-> Note: Due to issues encountered while installing TensorFlow, it is faster to install it from a local file.
+> Note: Due to issues encountered while installing TensorFlow, it was faster to install it from a local file, unfortunately i couldn't upload it on GitHub.
 
 The application was developed using **Python 3.11.8**, which is the only version compatible with the latest TensorFlow library update.
 
