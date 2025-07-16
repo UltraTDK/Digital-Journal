@@ -1,6 +1,11 @@
 # Digital-Journal
 This my Bachelor Degree Application that is designed as a personal emotional journal.
 
+## Demo Video
+
+You can watch a demo of the application here:  
+[https://www.youtube.com/watch?v=WKYGUPpBheM](https://www.youtube.com/watch?v=WKYGUPpBheM)
+
 ## Installation
 
 Run the following command in CMD to install all required libraries:
